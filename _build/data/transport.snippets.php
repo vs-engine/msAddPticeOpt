@@ -5,8 +5,8 @@
 $snippets = array();
 
 $tmp = array(
-    'modExtra' => array(
-        'file' => 'modextra',
+    'msAddPticeOpt' => array(
+        'file' => 'msaddpticeopt',
         'description' => '',
     ),
 );

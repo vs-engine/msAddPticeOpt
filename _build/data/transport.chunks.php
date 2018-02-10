@@ -5,11 +5,11 @@
 $chunks = array();
 
 $tmp = array(
-    'tpl.modExtra.item' => array(
+    'tpl.msAddPticeOpt.item' => array(
         'file' => 'item',
         'description' => '',
     ),
-    'tpl.modExtra.office' => array(
+    'tpl.msAddPticeOpt.office' => array(
         'file' => 'office',
         'description' => '',
     ),
