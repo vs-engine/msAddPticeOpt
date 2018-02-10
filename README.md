@@ -9,6 +9,8 @@ First, clone this repository somewhere on your development machine:
 
 ## Copyright Information
 
+
+
 msAddPticeOpt is distributed as GPL (as MODx Revolution is), but the copyright owner
 (Shaun McCormick) grants all users of msAddPticeOpt the ability to modify, distribute
 and use msAddPticeOpt in MODx development as they see fit, as long as attribution
